@@ -1,2 +1,2 @@
 FROM hello-world
-LABEL Arch=x86
+LABEL Archtecture=x86
